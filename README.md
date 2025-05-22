@@ -22,10 +22,10 @@
 # Project Brief 
 Road Accident Reports
 
-# Project Overview
+## Project Overview
 This project objective is to analyze an accident report dataset to uncover patterns and insights related to road safety. It includes trends in accident frequency, locations, times, and causes. The goal is to help improve decision-making and reduce future accidents through data-driven insights.
 
-# KEY QUESTIONS TO ANSWER
+## Key Questions to Answer
 
 1.	What is the total number of casualties?
 2.	What are the total casualties by accidents severities?
@@ -51,7 +51,7 @@ This project objective is to analyze an accident report dataset to uncover patte
 | POWER BI | DAX Measures, Visualizations | 
 
 
-# Dashboard Design
+## Dashboard Design
 Here are the different (appropriate) chart and icons used in telling the data story.
 
 1.	Score cards
@@ -224,7 +224,7 @@ ORDER BY AccidentSeverity DESC;  --- total casualties by year
 ```
 ![Output](assets/images/012.PNG)
 
-# Insights
+## Insights
 
 •	Cars account for the overwhelming majority of casualties (333.5K out of 418K).
 
@@ -253,7 +253,7 @@ ORDER BY AccidentSeverity DESC;  --- total casualties by year
 •	Majority of accidents happen on dry roads, followed by wet or damp surfaces.
 
 
-# Recommendations
+## Recommendations
 
 •	Focus safety campaigns and infrastructure improvements in urban areas, especially targeting car users.
 
@@ -268,7 +268,7 @@ ORDER BY AccidentSeverity DESC;  --- total casualties by year
 •	Launch public awareness and enforcement campaigns in late autumn (Oct–Nov) when accidents spike.
 
 
-# Action Plan
+## Action Plan
 
 •	Audit and improve road safety in high-casualty urban zones.
 
