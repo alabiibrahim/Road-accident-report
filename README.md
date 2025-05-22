@@ -29,9 +29,9 @@ This project objective is to analyze an accident report dataset to uncover patte
 
 1.	What is the total number of casualties?
 2.	What are the total casualties by accidents severities?
-3.	Compute the percentage by casualties
+3.	Compute the percentage by casualties.
 4.	What road condition does accident mostly occurs?
-5.	In What light condition does accident mostly occur?
+5.	Accident occurs frequently in what light condition?
 6.	What road type does accident mostly occurs?
 7.	What area does accident mostly occurs?
 8.	What weather condition does accident mostly occurs?
@@ -47,9 +47,7 @@ This project objective is to analyze an accident report dataset to uncover patte
 
 | Tools | Purpose | 
 | --- | --- | 
-
 | SQL |  Cleaning, Transformation, Processing |
-
 | POWER BI | DAX Measures, Visualizations | 
 
 
@@ -69,14 +67,15 @@ Here are the different (appropriate) chart used in telling the data story.
 ![Dashboard](assets/images/Dashboard2.PNG)
 
 ## Stages
-Here’s a step-by-step guide on how the data was approached 
+Here’s a step-by-step details on how the data was approached 
 
-1.	Get the data from source
-2.	Load data into SQL
+1.	Get Data
+2.	Load into SQL
 3.	Clean and process with SQL
 4.	Export to Power BI for visualizations
 5.	Generate Insights
-6.	Give recommendations 
+6.	Give recommendations
+7.	Take action plan
 
 ## Data Cleaning & Processing 
 Here's how the data was cleaned and processed before its readiness for analysis.
