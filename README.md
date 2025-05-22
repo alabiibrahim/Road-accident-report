@@ -1,4 +1,4 @@
-# SQL TO POWER BI- Road accident report
+# SQL to Power BI- Road accident report
 
 ![Gif](assets/images/DashboardGIF1.gif)
 
