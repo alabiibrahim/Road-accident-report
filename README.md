@@ -52,13 +52,13 @@ This project objective is to analyze an accident report dataset to uncover patte
 
 
 # Dashboard Design
-Here are the different (appropriate) chart used in telling the data story.
+Here are the different (appropriate) chart and icons used in telling the data story.
 
 1.	Score cards
 2.	Column chart
 3.	Donut chart
 4.	Area chart
-5.	Icons ( cars, motorcycle, van, bus, agricultural vehicle and Others.)
+5.	Icons (cars, motorcycle, van, bus, agricultural vehicle and Others.)
 6.	Bar chart
 7.	Tree map
    
